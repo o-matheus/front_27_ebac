@@ -144,6 +144,11 @@ Lib boa para icons - Lucide icons
 ### Objetivos
 
 ### Pontos Importantes
+Nós vamos usar o bootstrap e fazer a instalação dele pelo Node.
+`npm i bootstrap@5.3.7`
 
+`@submit.prevent` na tag `form` para tirar o comportamento padrão de recarregar a página quando apertamos o botão com o tipo `submit`
+
+Framework para ver depois -> ionic
 
 ## Tarefa
