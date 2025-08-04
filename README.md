@@ -149,6 +149,8 @@ Nós vamos usar o bootstrap e fazer a instalação dele pelo Node.
 
 `@submit.prevent` na tag `form` para tirar o comportamento padrão de recarregar a página quando apertamos o botão com o tipo `submit`
 
+Essa foi uma aula bem desafiadora demorei alguns dias pra poder entender melhor seu conteúdo, estava tentando fazer alterações com conceitos que não estava / estou familiarizado e acabou gerando diversos bugs. Tenho que estudar mais sobre as diretivas do vueJS.
+
 Framework para ver depois -> ionic
 
 ## Tarefa
