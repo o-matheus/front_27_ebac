@@ -154,3 +154,26 @@ Essa foi uma aula bem desafiadora demorei alguns dias pra poder entender melhor 
 Framework para ver depois -> ionic
 
 ## Tarefa
+* Criar um projeto utilizando VueJS;
+
+* Este projeto será uma calculadora aritmética;
+
+* Deverá conter dois campos para inserir os números;
+
+* Um campo do tipo select para escolher a operação aritmética;
+
+* Ao alterar os valores o cálculo já deverá ser realizado, sem precisar clicar em nenhum botão;
+
+* Crie um repositório no Github para esta tarefa e nos envie o link pela plataforma. 
+
+Passo a passo para o projeto
+1º -> Titulo (Calculadora)
+2º -> Criar um form
+  2.1º -> Criar dois campos inputs - que recebem apenas números
+  2.2º -> Criar um campo select onde vai ter as 4 operações arimeticas (+, -, /, *)
+3º -> Criar um switch que vai acompanhar os valores do seletor e que vai fazer as contas.
+4º -> Criar o campo onde o resultado vai ser mostrado. 
+
+De forma em geral foi bem tranquilo fazer esse exercício, utilizei o `v-model` para fazer o bind de valores escritos no HTML e valores a serem trabalhados no JavaScript. Uma coisa que tenho que estudar no futuro é entender melhor como estruturar o v-model em componentes, não sei se os erros que estava tendo na aula anterior eram por uma escrita errada de lógica, mas vou averiguar quando tentar fazer projetos com componentes novamente.
+
+Estudar mais sobre computed, estados derivados. Ajudam na performance do código, sendo executado somente quando tiver alguma alteração nos valores.  
